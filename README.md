@@ -1,1 +1,1 @@
-"# ECON 753 repository for HA and project" 
+# ECON 753 repository for HA and project
